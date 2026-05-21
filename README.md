@@ -9,6 +9,6 @@ It is important to note that a well established solution already exists, linear 
 
 The Notebook pipeline.ipynb goes through everything, from data generation to training to testing. 
 
-I used the Tenpy library created by Johannes Hauschild and Frank Pollmann.
+I used the Tenpy library created by Dr. Johannes Hauschild and Prof. Frank Pollmann.
 
 For more details on the thesis and tests performed, see my thesis.
