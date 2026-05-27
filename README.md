@@ -1,7 +1,7 @@
 # bsc-thesis-tcn-prediction
 Bachelor thesis project on perturbation spread prediction using Temporal Convolutional Networks.
 
-Hi, in this repository I uploaded a concise version of the code I used to test the TCN's network ability to extrapolate the perturbation spread in an Ising chain beyond the reasonable classical computational limits. 
+I uploaded a concise version of the code I used to test the TCN's network ability to extrapolate the perturbation spread in an Ising chain beyond the reasonable classical computational limits. 
 
 The motivation behind this thesis is that dynamics of unstable quantum systems (such as our perturbed ground state) become exponentially hard to compute classically due to the increase of entanglement entropy. Therefore this project explores the usage of neural networks, specifically TCN's, to replace classical simulation methods after a certain difficulty threshold and calculate the remaining values based on the earlier dynamics determined using classical methods such as Trotterization. 
 
