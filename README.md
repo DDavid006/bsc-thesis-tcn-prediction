@@ -11,4 +11,6 @@ The Notebook pipeline.ipynb goes through everything, from data generation to tra
 
 I used the Tenpy library created by Dr. Johannes Hauschild and Prof. Frank Pollmann.
 
+The source code for the TCN architecture can be found at https://github.com/locuslab/TCN
+
 For more details on the thesis and tests performed, see my thesis.
